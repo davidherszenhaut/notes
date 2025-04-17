@@ -1,5 +1,6 @@
 ---
 title: 日本語
+description: index page of 日本語
 ---
 
 - [home](../index.md)
