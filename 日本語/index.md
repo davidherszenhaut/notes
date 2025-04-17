@@ -1,2 +1,2 @@
-- [home](/index.md)
+- [home](index.md)
 - [紛らわしい漢字](紛らわしい漢字.md)
