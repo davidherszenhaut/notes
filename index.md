@@ -1,1 +1,1 @@
-[exposure triangle](photography/exposure%20triangle.md)
+[exposure_triangle](photography/exposure_triangle.md)

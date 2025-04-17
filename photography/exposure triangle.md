@@ -1,3 +1,0 @@
-# shutter speed
-# aperture
-# iso
