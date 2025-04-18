@@ -4,7 +4,7 @@ description: aperture
 tags:
   - photography
 ---
-- [exposure triangle](./exposure-triangle.md)
+- [exposure triangle](exposure-triangle.md)
 # how aperture works
 - optical systems usually have many openings/structures called _stops_ that limit light rays
 - _aperture stop_ is the main stop that controls the cone of light rays that an optical system accepts

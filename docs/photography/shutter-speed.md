@@ -4,7 +4,7 @@ description: shutter speed
 tags:
   - photography
 ---
-- [exposure triangle](./exposure-triangle.md)
+- [exposure triangle](exposure-triangle.md)
 # how shutter speed works
 # practical uses
 - slower shutter speeds lead to more motion blur

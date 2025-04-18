@@ -4,7 +4,7 @@ description: iso
 tags:
   - photography
 ---
-- [exposure triangle](./exposure-triangle.md)
+- [exposure triangle](exposure-triangle.md)
 # how iso works
 - the signal gain of the light sensor can be arbitrarily adjusted
 # practical uses

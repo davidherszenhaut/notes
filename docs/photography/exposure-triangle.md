@@ -4,7 +4,7 @@ description: notes about the three parts of the exposure triangle
 tags:
   - photography
 ---
-- [photography](./index.md)
+- [photography](docs/photography/index.md)
 # [shutter speed](shutter-speed.md)
 - "the length of time that the film or digital sensor inside the camera is exposed to light"
 # [aperture](aperture.md)
