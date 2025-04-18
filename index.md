@@ -1,6 +1,5 @@
 ---
 description: the home page
 ---
-
-- [exposure_triangle](photography/exposure_triangle.md)
+- [photography](photography/index.md)
 - [日本語](日本語/index.md)
