@@ -1,6 +1,7 @@
 ---
 title: aperture
 description: aperture
+parent: exposure triangle
 tags:
   - photography
 ---

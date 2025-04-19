@@ -1,6 +1,7 @@
 ---
 title: shutter speed
 description: shutter speed
+parent: exposure triangle
 tags:
   - photography
 ---

@@ -1,6 +1,7 @@
 ---
 title: exposure triangle
 description: notes about the three parts of the exposure triangle
+parent: photography
 tags:
   - photography
 ---

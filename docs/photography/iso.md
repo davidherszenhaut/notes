@@ -1,6 +1,7 @@
 ---
 title: iso
 description: iso
+parent: exposure triangle
 tags:
   - photography
 ---
