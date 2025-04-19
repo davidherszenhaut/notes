@@ -4,8 +4,9 @@ description: shutter speed
 parent: exposure triangle
 tags:
   - photography
+  - exposure-triangle
 ---
-- [exposure triangle](exposure-triangle.md)
+- "the length of time that the film or digital sensor inside the camera is exposed to light"
 # how shutter speed works
 # practical uses
 - slower shutter speeds lead to more motion blur

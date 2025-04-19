@@ -4,8 +4,9 @@ description: iso
 parent: exposure triangle
 tags:
   - photography
+  - exposure-triangle
 ---
-- [exposure triangle](exposure-triangle.md)
+- "the measure of a photographic film's sensitivity to light"
 # how iso works
 - the signal gain of the light sensor can be arbitrarily adjusted
 # practical uses

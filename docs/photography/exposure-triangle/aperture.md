@@ -4,8 +4,9 @@ description: aperture
 parent: exposure triangle
 tags:
   - photography
+  - exposure-triangle
 ---
-- [exposure triangle](exposure-triangle.md)
+- "a hole or an opening that primarily limits light propagated through the system"
 # how aperture works
 - optical systems usually have many openings/structures called _stops_ that limit light rays
 - _aperture stop_ is the main stop that controls the cone of light rays that an optical system accepts
