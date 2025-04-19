@@ -1,6 +1,6 @@
 ---
 title: leading lines
-description: leading lines
+description: notes on leading lines
 parent: composition
 tags:
   - photography

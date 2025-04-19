@@ -1,6 +1,6 @@
 ---
-title: tae kim
-description: tae kim
+title: tae kim's guide to learning japanese
+description: the home page of my notes from tae kim's guide to learning japanese
 parent: grammar
 ---
 # resources

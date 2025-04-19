@@ -1,6 +1,6 @@
 ---
 title: genki ii
-description: genki ii
+description: the home page of my notes from genki ii
 parent: genki
 ---
 # resources

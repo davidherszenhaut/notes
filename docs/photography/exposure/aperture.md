@@ -1,10 +1,10 @@
 ---
 title: aperture
-description: aperture
+description: notes on aperture
 parent: exposure triangle
 tags:
   - photography
-  - exposure-triangle
+  - exposure
 ---
 ## "a hole or an opening that primarily limits light propagated through the system"
 # how aperture works

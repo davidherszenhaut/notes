@@ -1,6 +1,6 @@
 ---
 title: cure dolly
-description: cure dolly
+description: the home page of my notes from cure dolly
 parent: grammar
 ---
 # resources

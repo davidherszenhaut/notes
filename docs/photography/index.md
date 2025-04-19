@@ -1,4 +1,4 @@
 ---
 title: photography
-description: index page of photography
+description: the home page of my notes on photography
 ---

@@ -1,5 +1,5 @@
 ---
 title: genki
-description: genki
+description: the home page of my notes from genki
 parent: grammar
 ---

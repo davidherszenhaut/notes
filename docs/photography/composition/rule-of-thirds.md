@@ -1,6 +1,6 @@
 ---
 title: rule of thirds
-description: rule of thirds
+description: notes on the rule of thirds
 parent: composition
 tags:
   - photography

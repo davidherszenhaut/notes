@@ -1,10 +1,10 @@
 ---
 title: shutter speed
-description: shutter speed
+description: notes on shutter speed
 parent: exposure triangle
 tags:
   - photography
-  - exposure-triangle
+  - exposure
 ---
 ## "the length of time that the film or digital sensor inside the camera is exposed to light"
 # how shutter speed works

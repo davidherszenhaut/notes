@@ -1,6 +1,6 @@
 ---
-title: complete guide
-description: complete guide
+title: tae kim's complete guide
+description: the home page of my notes from tae kim's complete guide
 parent: tae kim
 ---
 # resources

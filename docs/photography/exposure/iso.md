@@ -1,10 +1,10 @@
 ---
 title: iso
-description: iso
+description: notes on iso
 parent: exposure triangle
 tags:
   - photography
-  - exposure-triangle
+  - exposure
 ---
 ## "the measure of a photographic film's sensitivity to light"
 # how iso works
