@@ -1,2 +1,11 @@
 remote_theme: just-the-docs/just-the-docs
+
+title: notes
+description: the home page of my notes
+baseurl: "/notes"
+url: "https://davidherszenhaut.github.io/notes/"
+repository: "https://github.com/davidherszenhaut/notes"
+
 favicon_ico: "/assets/images/favicon.png"
+back_to_top: true
+back_to_top_text: "back to top"
