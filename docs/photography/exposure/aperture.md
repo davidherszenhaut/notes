@@ -1,20 +1,20 @@
 ---
 title: aperture
 description: notes on aperture
-parent: exposure triangle
+parent: exposure
 tags:
   - photography
   - exposure
 ---
 ## "a hole or an opening that primarily limits light propagated through the system"
 # how aperture works
-- optical systems usually have many openings/structures called _stops_ that limit light rays
-- _aperture stop_ is the main stop that controls the cone of light rays that an optical system accepts
-- _diaphragms_ are usually used to control the aperture stop in cameras
-- _f-number_ is the ratio of focal length to aperture diameter
+- optical systems usually have many openings/structures called "stops" that limit light rays
+- "aperture stop" is the main stop that controls the cone of light rays that an optical system accepts
+- "diaphragms" are usually used to control the aperture stop in cameras
+- "f-number" is the ratio of focal length to aperture diameter
 - increasing the aperture size (decreasing the f-number) allows more light to reach the sensor
 - reducing the aperture size (increasing the f-number) allows less light to reach the sensor
-- _depth of field_ is the distance between the closest and farthest objects that are in focus in an image
+- "depth of field" is the distance between the closest and farthest objects that are in focus in an image
 - increasing the aperture size decreases the depth of field
 - reducing the aperture size increases the depth of field
 # practical uses

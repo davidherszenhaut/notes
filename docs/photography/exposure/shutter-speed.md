@@ -1,7 +1,7 @@
 ---
 title: shutter speed
 description: notes on shutter speed
-parent: exposure triangle
+parent: exposure
 tags:
   - photography
   - exposure
