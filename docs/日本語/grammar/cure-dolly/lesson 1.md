@@ -1,5 +1,5 @@
 ---
-title: lesson 1 (the core sentences)
+title: lesson 1 (the core sentence)
 description: notes on cure dolly lesson 1
 parent: cure dolly
 ---
