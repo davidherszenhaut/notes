@@ -1,6 +1,6 @@
 ---
-title: lesson 1
-description: lesson 1
+title: lesson 1 (the core sentences)
+description: notes on cure dolly lesson 1
 parent: cure dolly
 ---
 # notes
@@ -12,7 +12,7 @@ parent: cure dolly
 	- A does B (ex: サクラが歩く。)
 - が is the center of japanese grammar, even if it is not explicitly part of a sentence
 	- が links the A and B components
-- sentences ending with an i-adjective do not need a だ because the い takes the function of だ (ペンが赤い。)
+- sentences ending with an i-adjective do not need a だ because the い takes the function of だ (ex: ペンが赤い。)
 	- these types of sentences are part of the "A is B" type
 # resources
 - [youtube](https://www.youtube.com/watch?v=pSvH9vH60Ig)
