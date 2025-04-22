@@ -5,8 +5,8 @@ parent: cure dolly
 ---
 # notes
 - every japanese sentence has two components:
-	- a "carriage", A
-	- an "engine", B
+	- a "carriage" car, A
+	- an "engine" car, B
 - there are two types of sentences:
 	- A is B (ex: サクラが日本人だ。)
 	- A does B (ex: サクラが歩く。)
