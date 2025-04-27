@@ -2,7 +2,7 @@
 title: lesson 4 (verb tenses and time expressions)
 description: notes on cure dolly lesson 4
 parent: cure dolly
-nav_order: "4"
+nav_order: 4
 ---
 # notes
 - most of the time, the japanese non-past tense refers to future events

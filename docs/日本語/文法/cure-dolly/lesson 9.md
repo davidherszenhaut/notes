@@ -2,7 +2,7 @@
 title: lesson 9 (expressing want)
 description: notes on cure dolly lesson 9
 parent: cure dolly
-nav_order: "9"
+nav_order: 9
 ---
 # notes
 ## notes on は and が

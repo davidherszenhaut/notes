@@ -2,7 +2,7 @@
 title: lesson 10 (the potential helper verb)
 description: notes on cure dolly lesson 10
 parent: cure dolly
-nav_order: "10"
+nav_order: 10
 ---
 # notes
 ## potential helper verb

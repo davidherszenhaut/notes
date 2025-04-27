@@ -2,7 +2,7 @@
 title: lesson 7 (negating verbs and adjectives)
 description: notes on cure dolly lesson 7
 parent: cure dolly
-nav_order: "7"
+nav_order: 7
 ---
 # notes
 - the basis of negatives is the *adjective* 「ない」, which means "not exist"

@@ -2,7 +2,7 @@
 title: lesson 5 (verb groups and conjugating to the て form)
 description: notes on cure dolly lesson 5
 parent: cure dolly
-nav_order: "5"
+nav_order: 5
 ---
 # notes
 - japanese verbs fall into three groups
