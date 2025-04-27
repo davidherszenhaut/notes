@@ -2,6 +2,7 @@
 title: lesson 1 (the core japanese sentence)
 description: notes on cure dolly lesson 1
 parent: cure dolly
+nav_order: "1"
 ---
 # notes
 - every japanese sentence has two components:

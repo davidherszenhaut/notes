@@ -2,6 +2,7 @@
 title: lesson 2 (the ０が and the を particle)
 description: notes on cure dolly lesson 2
 parent: cure dolly
+nav_order: "2"
 ---
 # notes
 ## the ０が

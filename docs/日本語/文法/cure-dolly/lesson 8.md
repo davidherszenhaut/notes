@@ -2,6 +2,7 @@
 title: lesson 8 (the logical particles)
 description: notes on cure dolly lesson 8
 parent: cure dolly
+nav_order: "8"
 ---
 # notes
 ## the に particle

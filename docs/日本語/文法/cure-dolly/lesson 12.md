@@ -2,6 +2,7 @@
 title: lesson 12 (the と particle and compound verbs)
 description: notes on cure dolly lesson 12
 parent: cure dolly
+nav_order: "12"
 ---
 # notes
 ## the と particle

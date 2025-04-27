@@ -2,6 +2,7 @@
 title: lesson 3 (the は and に particles)
 description: notes on cure dolly lesson 3
 parent: cure dolly
+nav_order: "3"
 ---
 # notes
 ## the は particle

@@ -2,6 +2,7 @@
 title: lesson 11 (more uses of the て form)
 description: notes on cure dolly lesson 11
 parent: cure dolly
+nav_order: "11"
 ---
 # notes
 - 「ある」 can be used as a descriptor to mean "an existing" or "a certain" (ex: 「ある本」 means "a certain book" or "a book that exists")

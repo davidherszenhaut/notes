@@ -2,6 +2,7 @@
 title: lesson 6 (adjectives and the の particle)
 description: notes on cure dolly lesson 6
 parent: cure dolly
+nav_order: "6"
 ---
 # notes
 - japanese sentences have three fundamental types depending on their engine:
