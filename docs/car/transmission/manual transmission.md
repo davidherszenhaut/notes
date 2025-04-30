@@ -1,5 +1,5 @@
 ---
-title: manual transmissions
+title: manual transmission
 description: notes on manual transmissions
-parent: transmissions
+parent: transmission
 ---

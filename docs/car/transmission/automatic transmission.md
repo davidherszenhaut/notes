@@ -1,5 +1,5 @@
 ---
-title: automatic transmissions
+title: automatic transmission
 description: notes on automatic transmissions
-parent: transmissions
+parent: transmission
 ---

@@ -1,5 +1,5 @@
 ---
-title: continuous variable transmissions
+title: continuous variable transmission
 description: notes on continuous variable transmissions
-parent: transmissions
+parent: transmission
 ---
