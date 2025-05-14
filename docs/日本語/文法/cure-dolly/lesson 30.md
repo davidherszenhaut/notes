@@ -1,5 +1,5 @@
 ---
-title: lesson 30 (the conditional と)
+title: lesson 30 (the と conditional)
 description: notes on cure dolly lesson 30
 parent: cure dolly
 nav_order: 30
