@@ -6,7 +6,7 @@ nav_order: 2
 ---
 # notes
 ## the ０が
-- sometimes, the A car of the core japanese sentence is "invisible"
+- sometimes, the A car of the core Japanese sentence is "invisible"
 - when the A car is invisible, it is a zero-pronoun
 	- ex: 「０がドリーだ。」 is equivalent to 「ドリーだ。」
 - consider 私 to the be the default of ０が, but it can be anything given context

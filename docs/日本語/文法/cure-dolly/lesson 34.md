@@ -21,15 +21,15 @@ nav_order: 34
 - ex: 「私が彼に話した日本語が出来る留学生は五輪金メダルを獲得した女性と結婚した。」
 	- 「私が彼に話した」 means "I spoke to/told him"
 		- this is not a complete logical clause because it is followed by a noun (「日本語」) and not a conjunction/て form/い stem
-	- 「日本語が出来る」 means "japanese is possible"
+	- 「日本語が出来る」 means "Japanese is possible"
 		- this is not a complete logical clause for the same reason
-		- this is modifying 「留学生」 ("a foreign-exchange student for whom japanese is possible")
-		- 「私が彼に話した」 is modifying all of 「日本語が出来る留学生」 ("the japanese-speaking exchange student who I told him about)
+		- this is modifying 「留学生」 ("a foreign-exchange student for whom Japanese is possible")
+		- 「私が彼に話した」 is modifying all of 「日本語が出来る留学生」 ("the Japanese-speaking exchange student who I told him about)
 	- 「五輪金メダルを獲得した」
 		- 「五輪金メダル」 means an olympic (five-ring) gold medal
 		- this is not a complete logical clause because there is no doer (this is all describing 「女性」)
 	- 「と結婚した」
 		- this is the head verb of the sentence
-	- "The japanese-speaking exchange student I told him about got married with the olympic gold medal winning girl."
+	- "The Japanese-speaking exchange student I told him about got married with the olympic gold medal winning girl."
 # resources
 - [youtube](https://www.youtube.com/watch?v=uot49Z85wNs)

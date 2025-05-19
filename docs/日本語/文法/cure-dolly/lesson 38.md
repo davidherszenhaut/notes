@@ -7,7 +7,7 @@ nav_order: 38
 # notes
 - 「じゃない」 is a contraction of 「ではない」 (the negative of the copula)
 - negative questions can be used when looking for a positive response (ex: "It's a nice day _isn't_ it?" / "Yes, it _is_.)
-- in formal japanese, a question like this might be 「田中さんじゃないですか？」("Aren't you Tanaka-san?)
+- in formal Japanese, a question like this might be 「田中さんじゃないですか？」("Aren't you Tanaka-san?)
 	- the 「です」 is just a politeness marker
 	- in casual Japanese, the 「です」 and 「か」 are omitted, leaving 「田中さんじゃない？」 which has three potential meanings
 		- "Is not Tanaka-san."

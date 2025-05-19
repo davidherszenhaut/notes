@@ -5,7 +5,7 @@ parent: cure dolly
 nav_order: 6
 ---
 # notes
-- japanese sentences have three fundamental types depending on their engine:
+- Japanese sentences have three fundamental types depending on their engine:
 	- う, verb sentences (A does B)
 	- だ, noun sentences (A is B)
 	- い, adjective sentences (A is B)
@@ -21,7 +21,7 @@ nav_order: 6
 - not all nouns are adjectival
 ## the の particle
 - the の particle is the possessive particle
-- the の particle works like "'s" in english
+- the の particle works like "'s" in English
 	- ex: 「私の靴」 means "my shoes"
 - the の particle can be used to describe things that belong to a group
 	- ex: 「ピンク色」 means "pink color" but cannot be used as an i-adjective or a na-adjective, so use 「ピンク色の物」 instead to describe a pink thing

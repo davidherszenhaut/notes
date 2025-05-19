@@ -5,7 +5,7 @@ parent: cure dolly
 nav_order: 17
 ---
 # notes
-## formal japanese
+## formal Japanese
 - 「ます」 is a helper verb that attaches to the い stem
 	- it does not change the meaning of the verb, it just makes it formal
 	- it is irregular

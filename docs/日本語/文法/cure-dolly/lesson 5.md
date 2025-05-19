@@ -5,7 +5,7 @@ parent: cure dolly
 nav_order: 5
 ---
 # notes
-- japanese verbs fall into three groups
+- Japanese verbs fall into three groups
 	- ichidan (一段) verbs
 	- godan (五段) verbs
 	- irregular verbs (来る and する)

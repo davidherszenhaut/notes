@@ -8,7 +8,7 @@ nav_order: 15
 - verbs are "move words"
 - a "self move word" is a verb that moves itself (ex: standing up)
 - an "other move word" is a verb that moves something else (ex: throwing a ball)
-- japanese has a lot of self-move/other-move pairs
+- Japanese has a lot of self-move/other-move pairs
 	- ex: 「出る」 which means "to leave" and 「出す」 which means "to take (something) out"
 	- ex: 「負ける」 which means "to lose" and 「まかす」 which mean "to cause (someone) to lose"
 - 「ある」 is the main self-move verb
