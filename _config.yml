@@ -7,5 +7,6 @@ url: "https://davidherszenhaut.github.io/notes/"
 repository: "https://github.com/davidherszenhaut/notes"
 
 favicon_ico: "/assets/images/favicon.png"
+color_scheme: "dark"
 back_to_top: true
 back_to_top_text: "back to top"
