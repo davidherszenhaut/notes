@@ -11,8 +11,8 @@ nav_order: 39
 - ex: 「田中さんが来るか知っていますか？」 means "The question of whether Tanaka-san will come, do you know?"
 	- the logical clause 「「田中さん来る」 gets bundled up by 「か」 and can then be used as something noun-like with 「知っていますか」
 - 「か」 has a tendency to displace logical particles
-	- ex: 「⭕️⭕️が分からない」 becomes 「⭕️⭕️か分からない」
-	- ex: 「⭕️⭕️を知っています」 becomes 「⭕️⭕️か知っています」
+	- ex: 「○○が分からない」 becomes 「○○か分からない」
+	- ex: 「○○を知っています」 becomes 「○○か知っています」
 - 「かどうか」 means "whether or not"
 	- ex: 「田中さん来るかどうか分からない。」 means "I don't know whether Tanaka-san is coming or not."
 - 「かもしれない」
