@@ -1,7 +1,7 @@
 ---
 title: lesson 1 (statements, questions, and the 「の」 particle)
 description: notes on genki i lesson 1
-parent: genki-i
+parent: genki i
 nav_order: 1
 ---
 # notes
