@@ -1,5 +1,5 @@
 ---
-title: lesson 2 (「こそあど」, "too", negative statements, and sentence enders)
+title: lesson 2
 description: notes on genki i lesson 2
 parent: genki i
 nav_order: 2
