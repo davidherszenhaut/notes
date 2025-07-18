@@ -26,6 +26,14 @@ nav_order: 9
 ## 「わけがない」
 - 「（THING)わけがない」 means "cannot possibly (THING)"
 - 「わけがない」 is more subjective whereas 「はずがない」 is more objective
+## 「得る・得ない」
+- 「（MASUSTEM)得る」 means "(VERB) is possible"
+	- can be read as 「うる」 or 「える」
+- 「（MASUSTEM)得ない」 means "(VERB) is not possible"
+## 「もしない」
+- 「（MASUSTEM)もしない」 means "without even (VERB)ing"
+- for 「する」 verbs, you will usually attach 「もしない」 to the noun directly
 # resources
 - [youtube](https://www.youtube.com/watch?v=CO1vWkGGnkk)
 - [youtube](https://www.youtube.com/watch?v=GcjzwgDwKqU)
+- [youtube](https://www.youtube.com/watch?v=BtcYk9JciQU)
