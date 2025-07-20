@@ -17,6 +17,18 @@ nav_order: 10
 - 「（NOUN)を占める」 means "to account for (NOUN)"
 ## 「ながら」
 - 「ながら」 can mean "although"
+## 「ほど」
+- 「（NOUN)ほどB」 means "the more N, the more B"
+## 「のぼる」
+- 「（NOUN)にのぼる」 means "to reach"
+## 「つつ」
+- 「（MASUSTEM)つつ」 means "while"
+## 「たところ」
+- 「(PASTTENSEVERB)ところ」 means "as a result of (VERB)ing"
+## 「ものの」
+- 「ものの」 means although
 # resources
 - [youtube](https://www.youtube.com/watch?v=NNH6zXcwHz4)
 - [youtube](https://www.youtube.com/watch?v=qUIPMAJ21v8)
+- [youtube](https://www.youtube.com/watch?v=_6ihwpEpLKY)
+- [youtube](https://www.youtube.com/watch?v=fL3iCbC14jg)
